@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/BylinaG/LeetCode/tree/master/0197-rising-temperature) |
 | [0627-swap-salary](https://github.com/BylinaG/LeetCode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/BylinaG/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/BylinaG/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
