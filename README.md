@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/BylinaG/LeetCode/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/BylinaG/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/BylinaG/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/BylinaG/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/BylinaG/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/BylinaG/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/BylinaG/LeetCode/tree/master/1877-find-followers-count) |
