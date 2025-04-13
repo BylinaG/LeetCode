@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/BylinaG/LeetCode/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/BylinaG/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/BylinaG/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0610-triangle-judgement](https://github.com/BylinaG/LeetCode/tree/master/0610-triangle-judgement) |
