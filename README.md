@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/BylinaG/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/BylinaG/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/BylinaG/LeetCode/tree/master/1942-primary-department-for-each-employee) |
+| [1948-rearrange-products-table](https://github.com/BylinaG/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2087-confirmation-rate](https://github.com/BylinaG/LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/BylinaG/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BylinaG/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
