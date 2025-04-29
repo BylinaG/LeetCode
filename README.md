@@ -63,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3530-odd-and-even-transactions](https://github.com/BylinaG/LeetCode/tree/master/3530-odd-and-even-transactions) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/BylinaG/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
 | [3816-dna-pattern-recognition](https://github.com/BylinaG/LeetCode/tree/master/3816-dna-pattern-recognition) |
+| [3848-analyze-subscription-conversion](https://github.com/BylinaG/LeetCode/tree/master/3848-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
