@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3803-find-products-with-valid-serial-numbers](https://github.com/BylinaG/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
 | [3816-dna-pattern-recognition](https://github.com/BylinaG/LeetCode/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/BylinaG/LeetCode/tree/master/3848-analyze-subscription-conversion) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BylinaG/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BylinaG/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
